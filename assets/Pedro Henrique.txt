@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pedro Henrique</title>
+</head>
+<body>
+    <div align="center">
+        <h1>Quem eu sou?</h1>
+
+        <p>Nome Completo: Pedro Henrique Prandwiski Borges</p>
+        <p>Idade: 16 anos</p>
+        <p>Cidade: São Paulo</p>
+        <p>Curso: Desenvolvimento de Sistemas</p>
+        <p>Hobby: Jogar jogos FPS</p><br><br>
+        <p>Meu site favorito é:</p>
+        <p>https://youtube.com</p><br><br>
+	<p>Olá, meu nome é Pedro Henrique e eu gosto muito de jogar jogos FPS, ver séries, vídeos no Youtube do Alanzoka, e ouvir músicas no Spotify (sendo rap, trap, hip-hop, pop, rock)!
+    </div>
+</body>
+</html>
