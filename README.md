@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=bd93f9&text=📚+ATV_FRONT-END&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=💻+Atividades+da+disciplina+de+front-end&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=bd93f9&text=💻+ATV_FRONT-END&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=📚+Atividades+da+disciplina+de+front-end&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
