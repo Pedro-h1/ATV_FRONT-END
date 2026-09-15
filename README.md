@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=61DAFB&text=💻+ATV_FRONT-END&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=📚+Atividades+da+disciplina+de+front-end&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=61DAFB&text=💻+ATV+—+FRONTEND&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=📚+Atividades+da+disciplina+de+front-end&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=61DAFB&center=true&vCenter=true&width=750&lines=📘+Sobre+o+reposit%C3%B3rio" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=61DAFB&center=true&vCenter=true&width=750&lines=📘+Sobre+o+reposit%C3%B3rio" /></div>
 
 <div align="center">
   <p>📌 Repositório destinado às atividades desenvolvidas no <strong>SENAI</strong><br>na disciplina de <strong>front-end</strong>.</p>
@@ -10,7 +10,7 @@
 
 ---
 
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=61DAFB&center=true&vCenter=true&width=750&lines=🧠+Conte%C3%BAdo" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=61DAFB&center=true&vCenter=true&width=750&lines=🧠+Conte%C3%BAdo" /></div>
 
 <div align="center">
   <p>🎨 Desenvolvimento de interfaces</p>
@@ -21,7 +21,7 @@
 
 ---
 
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=61DAFB&center=true&vCenter=true&width=750&lines=📚+Atividades+Feitas" /></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=61DAFB&center=true&vCenter=true&width=750&lines=📚+Atividades+Feitas" /></div>
 
 <div align="center">
   <a href="https://github.com/Pedro-h1/ATV_FRONT-END/blob/main/assets/Atividade%20Aula%2001%20-%20LIMA%20-%20Pedro%20Henrique.docx">
