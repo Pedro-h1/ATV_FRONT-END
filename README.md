@@ -1,17 +1,17 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:E34F26,100:F06529&text=💻+ATV+—+FRONTEND&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=📚+Atividades+da+disciplina+de+front-end&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:070B1A,100:1B2A4A&text=💻+ATV+—+FRONTEND&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=📚+Atividades+da+disciplina+de+front-end&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=E34F26&center=true&vCenter=true&width=750&lines=📘+Sobre+o+reposit%C3%B3rio" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1B2A4A&center=true&vCenter=true&width=750&lines=%F0%9F%93%98+Sobre+o+reposit%C3%B3rio" />
 </div>
 <div align="center">
-    <p>📌 Repositório destinado às atividades desenvolvidas no <strong>SENAI</strong><br>na disciplina de <strong>front-end</strong>.</p>
+    <p>Repositório destinado às atividades desenvolvidas no <strong>SENAI</strong><br>na disciplina de <strong>front-end</strong>.</p>
 </div>
 
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=E34F26&center=true&vCenter=true&width=750&lines=🧠+Conte%C3%BAdo" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1B2A4A&center=true&vCenter=true&width=750&lines=%F0%9F%A7%A0+Conte%C3%BAdo" />
 </div>
 <div align="center">
     <p>🎨 Desenvolvimento de interfaces</p>
@@ -23,11 +23,11 @@
 ---
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=E34F26&center=true&vCenter=true&width=750&lines=📚+Atividades+Feitas" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1B2A4A&center=true&vCenter=true&width=750&lines=%F0%9F%93%9A+Atividades+Feitas" />
 </div>
 <div align="center">
     <a href="https://github.com/Pedro-h1/ATV_FRONT-END/blob/main/assets/Atividade%20Aula%2001%20-%20LIMA%20-%20Pedro%20Henrique.docx">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=E34F26&center=true&vCenter=true&width=750&lines=📂+ATV1+-+Aula+01+-+LIMA" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1B2A4A&center=true&vCenter=true&width=750&lines=%F0%9F%93%82+ATV1+-+Aula+01+-+LIMA" />
     </a>
 </div>
 <div align="center">
@@ -38,12 +38,12 @@
 
 <div align="center">
     <a href="https://github.com/Pedro-h1/ATV_FRONT-END/blob/main/assets/pedro.html">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=E34F26&center=true&vCenter=true&width=750&lines=📂+ATV1+-+C%C3%B3digo+HTML+B%C3%A1sico" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=1B2A4A&center=true&vCenter=true&width=750&lines=%F0%9F%93%82+ATV1+-+C%C3%B3digo+HTML+B%C3%A1sico" />
     </a>
 </div>
 <div align="center">
     <p>🖥️ Atividade realizada no <strong>bloco de notas</strong> para criação de um <strong>código HTML básico</strong> <strong>falando sobre mim</strong>.</p>
 </div>
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:F06529,100:E34F26&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:1B2A4A,100:070B1A&animation=fadeIn" width="100%" />
 </div>
