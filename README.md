@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:E34F26,100:B93D1F&text=💻+ATV+—+FRONTEND&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=📚+Atividades+da+disciplina+de+front-end&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:E34F26,100:F06529&text=💻+ATV+—+FRONTEND&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=📚+Atividades+da+disciplina+de+front-end&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 <div align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=8000&pause=1500&startDelay=0&color=E34F26&center=true&vCenter=true&width=750&lines=📘+Sobre+o+reposit%C3%B3rio" />
@@ -45,5 +45,5 @@
     <p>🖥️ Atividade realizada no <strong>bloco de notas</strong> para criação de um <strong>código HTML básico</strong> <strong>falando sobre mim</strong>.</p>
 </div>
 <div align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:B93D1F,100:E34F26&animation=fadeIn" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:F06529,100:E34F26&animation=fadeIn" width="100%" />
 </div>
